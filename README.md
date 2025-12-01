@@ -8,9 +8,9 @@
 `pkg install python3`<BR>
 `apt upgrade`<BR>
 `apt update`<BR>
-`git clone https://github.com/GouthamSER/StrSesbot`<BR>
+`git clone https://github.com/GouthamSER/StringSession`<BR>
 `pip3 install -r requirements.txt`<BR>
-`cd StrSesbot`<BR>
+`cd StringSession`<BR>
 `python3 main.py`<BR>
 
 
